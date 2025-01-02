@@ -44,7 +44,6 @@ DFRobotの音声プレーヤモジュール[DFPlayer(DFPlayerMini)](https://www.
 
 ### UIFlow(v1)での使い方
 
-
 「DFPlayerMini.m5b」をダウンロードし、UIFlow(v1)の"Custom"の"Open *.m5b"からこのファイルを指定すると、Init、Play、Volume、Stopの4つのブロックを使用できます。
 
 <img src="https://github.com/akita11/DFPlayerMiniUNIT/blob/main/DFPlayerMini_Block.png" width="240px">
