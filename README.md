@@ -4,6 +4,8 @@
 
 <img src="https://github.com/akita11/DFPlayerMiniUNIT/blob/main/DFPlayerMiniUNIT_w_Mini.jpg" width="240px">
 
+※当初掲載していた"DFPlayerMini"をとりつけた状態の写真で、DFPlayerMiniの向きが逆になっていました。こちらの写真が正しいです。
+
 DFRobotの音声プレーヤモジュール[DFPlayer(DFPlayerMini)](https://www.switch-science.com/products/4291)をGrove端子を接続して制御できるモジュールです。Grove端子からシリアル(UART)通信で音声再生などを制御することができます。UIFlow(v1)用のブロックもあります。
 
 ※DFPlayerMiniは付属していません
@@ -26,6 +28,8 @@ DFRobotの音声プレーヤモジュール[DFPlayer(DFPlayerMini)](https://www.
 <img src="https://github.com/akita11/DFPlayerMiniUNIT/blob/main/DFPlayerMiniUNIT_spk_w_Mini.jpg" width="240px">
 
 基板中央部の1.25mmピッチコネクタ(Molex 53047-0210用)にスピーカを接続します。市販の小型スピーカ（M5Stack本体に使われているものなど。AliExpressやTaobaoでも同等品があります）を接続することができます。
+
+※こちらの2つめのスピーカつき写真では、DFPlayerMiniの向きが逆になっています。写真は近日中に差し替えます。申し訳ありません。
 
 
 ### 3.5mmジャックに直接スピーカを接続する方法
